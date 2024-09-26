@@ -1,4 +1,5 @@
 <img width="994" alt="Captura de Tela 2024-09-26 às 10 02 41" src="https://github.com/user-attachments/assets/57bff0d2-bf4e-4c6a-9a72-14b8fbbde11e">
+
 ![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
 
 # Titulo do projeto
